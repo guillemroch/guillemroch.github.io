@@ -1,5 +1,5 @@
 site_name: Doc
-
+mkdocs gh-deploy --force
 nav: 
   - Home: index.md
   - Server: server-settings.md
