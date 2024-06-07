@@ -1,0 +1,10 @@
+site_name: Doc
+
+nav: 
+  - Home: index.md
+  - Server: server-settings.md
+  - MkDocs: setting-mkdocs.md
+
+theme: 
+  name: null
+  custom_dir: ./themes/mkdocs_dracula_theme
